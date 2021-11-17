@@ -1,0 +1,1189 @@
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Boo.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\mscorlib.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\netstandard.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\nunit.framework.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.AppContext.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Collections.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ComponentModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Console.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Core.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Data.Common.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Data.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Globalization.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.Pipes.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Ping.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Requests.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.Sockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ObjectModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Resources.Reader.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Resources.Writer.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Claims.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.Principal.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Security.SecureString.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Text.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.Thread.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Threading.Timer.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.ValueTuple.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.XPath.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Locator.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.VR.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityScript.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityScript.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Valve.Newtonsoft.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Cecil.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.DataContract.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\ExCSS.Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.IvyParser.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.CecilTools.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.UI.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.UI.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\nunit.framework.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.VR.xml
+D:\cxl\工作资料\yueliang给的场景包\test\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\cxl\工作资料\yueliang给的场景包\test\obj\Debug\SteamVR_Windows_EditorHelper.csprojAssemblyReference.cache
+D:\cxl\工作资料\yueliang给的场景包\test\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CoreCompileInputs.cache
+D:\cxl\工作资料\yueliang给的场景包\test\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CopyComplete
+D:\cxl\工作资料\yueliang给的场景包\test\obj\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test\obj\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Boo.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Hi5Plugins.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\mscorlib.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\netstandard.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\nunit.framework.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.AppContext.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Collections.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ComponentModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Console.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Core.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Data.Common.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Data.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Globalization.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.Pipes.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Ping.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Requests.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.Sockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ObjectModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Resources.Reader.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Resources.Writer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Claims.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.Principal.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Security.SecureString.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Text.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.Thread.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Threading.Timer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.ValueTuple.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.XPath.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Locator.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.VR.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityScript.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityScript.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Valve.Newtonsoft.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Cecil.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.DataContract.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\ExCSS.Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.IvyParser.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.UI.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.UI.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\nunit.framework.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.VR.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\cxl\工作资料\yueliang给的场景包\test1\obj\Debug\SteamVR_Windows_EditorHelper.csprojAssemblyReference.cache
+D:\cxl\工作资料\yueliang给的场景包\test1\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CoreCompileInputs.cache
+D:\cxl\工作资料\yueliang给的场景包\test1\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CopyComplete
+D:\cxl\工作资料\yueliang给的场景包\test1\obj\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test1\obj\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Boo.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Hi5Plugins.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\mscorlib.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\netstandard.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\nunit.framework.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.AppContext.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Collections.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ComponentModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Console.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Core.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Data.Common.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Data.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Globalization.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.Pipes.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Ping.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Requests.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.Sockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ObjectModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Resources.Reader.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Resources.Writer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Claims.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.Principal.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Security.SecureString.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Text.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.Thread.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Threading.Timer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.ValueTuple.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.XPath.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.VR.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityScript.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityScript.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Valve.Newtonsoft.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.Cecil.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\ExCSS.Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.CecilTools.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\nunit.framework.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.VR.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\obj\Debug\SteamVR_Windows_EditorHelper.csprojAssemblyReference.cache
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CoreCompileInputs.cache
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CopyComplete
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\obj\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\obj\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\nunit.framework.pdb
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\BouncyCastle.Crypto.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Newtonsoft.Json 1.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Opc.UaFx.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\OPCUA4Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Private.ServiceModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\System.Reflection.DispatchProxy.dll
+D:\cxl\工作资料\yueliang给的场景包\test1 - 副本\Temp\bin\Debug\Opc.UaFx.Client.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Boo.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\BouncyCastle.Crypto.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Hi5Plugins.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\mscorlib.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\netstandard.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Newtonsoft.Json 1.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\nunit.framework.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Opc.UaFx.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\OPCUA4Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.AppContext.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Collections.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ComponentModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Console.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Core.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Data.Common.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Data.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Globalization.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Ping.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Requests.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ObjectModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Private.ServiceModel.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.DispatchProxy.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Claims.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.Principal.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.ValueTuple.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.VR.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityScript.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityScript.Lang.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Valve.Newtonsoft.Json.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.Cecil.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\UnityEditor.VR.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\Opc.UaFx.Client.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\nunit.framework.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\nunit.framework.xml
+D:\cxl\工作资料\yueliang给的场景包\test2\obj\Debug\SteamVR_Windows_EditorHelper.csprojAssemblyReference.cache
+D:\cxl\工作资料\yueliang给的场景包\test2\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CoreCompileInputs.cache
+D:\cxl\工作资料\yueliang给的场景包\test2\obj\Debug\SteamVR_Windows_EditorHelper.csproj.CopyComplete
+D:\cxl\工作资料\yueliang给的场景包\test2\obj\Debug\SteamVR_Windows_EditorHelper.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\obj\Debug\SteamVR_Windows_EditorHelper.pdb
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\DOTween.dll
+D:\cxl\工作资料\yueliang给的场景包\test2\Temp\bin\Debug\DOTweenEditor.dll

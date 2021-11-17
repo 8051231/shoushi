@@ -1,0 +1,22 @@
+﻿
+using UnityEngine;
+using UnityEditor;
+
+
+namespace game4automation
+{
+    [CustomEditor(typeof(OPCUA_Node))]
+    [CanEditMultipleObjects]
+    //! OPCUA_Node  Editor class for the Unity Inspector window
+    public class OPCUANodeEditor : UnityEditor.Editor {
+        public override void OnInspectorGUI()
+        {
+            DrawDefaultInspector();
+            OPCUA_Node myScript = (OPCUA_Node)target;
+            if(GUILayout.Button("Update Node"))
+            {
+                myScript.UpdateNode();
+            }       
+        }
+    } 
+}

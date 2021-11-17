@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 368ab69c74df4084db45fbac7bfbeb88
+timeCreated: 1472607008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body 1
+    100004: Body 2
+    100006: Body 3
+    100008: Body 4
+    100010: Flowmeter_DN100
+    100012: Flowmeter_DN200
+    100014: Flowmeter_DN25
+    100016: Flowmeter_DN300
+    100018: Flowmeter_DN50
+    100020: //RootNode
+    100022: Model
+    100024: Model 1
+    100026: Model 2
+    100028: Model 3
+    100030: Model 4
+    100032: Point_Pos
+    100034: Point_Pos 1
+    100036: Point_Pos 2
+    100038: Point_Pos 3
+    100040: Point_Pos 4
+    400000: Body
+    400002: Body 1
+    400004: Body 2
+    400006: Body 3
+    400008: Body 4
+    400010: Flowmeter_DN100
+    400012: Flowmeter_DN200
+    400014: Flowmeter_DN25
+    400016: Flowmeter_DN300
+    400018: Flowmeter_DN50
+    400020: //RootNode
+    400022: Model
+    400024: Model 1
+    400026: Model 2
+    400028: Model 3
+    400030: Model 4
+    400032: Point_Pos
+    400034: Point_Pos 1
+    400036: Point_Pos 2
+    400038: Point_Pos 3
+    400040: Point_Pos 4
+    2300000: Body
+    2300002: Body 1
+    2300004: Body 2
+    2300006: Body 3
+    2300008: Body 4
+    2300010: Point_Pos
+    2300012: Point_Pos 1
+    2300014: Point_Pos 2
+    2300016: Point_Pos 3
+    2300018: Point_Pos 4
+    3300000: Body
+    3300002: Body 1
+    3300004: Body 2
+    3300006: Body 3
+    3300008: Body 4
+    3300010: Point_Pos
+    3300012: Point_Pos 1
+    3300014: Point_Pos 2
+    3300016: Point_Pos 3
+    3300018: Point_Pos 4
+    4300000: Point_Pos
+    4300002: Body
+    4300004: Point_Pos
+    4300006: Body
+    4300008: Point_Pos
+    4300010: Body
+    4300012: Point_Pos
+    4300014: Body
+    4300016: Point_Pos
+    4300018: Body
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 914725f58330de740a866522fcab9850
+timeCreated: 1472371503
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Model
+    100002: Model 1
+    100004: Model 2
+    100006: Model 3
+    100008: Model 4
+    100010: Point_Pos
+    100012: Point_Pos 1
+    100014: Point_Pos 2
+    100016: Point_Pos 3
+    100018: Point_Pos 4
+    100020: StopValve_Body_Level1
+    100022: StopValve_Body_Level2
+    100024: StopValve_Body_Level3
+    100026: StopValve_Body_Level4
+    100028: StopValve_Body_Level5
+    100030: //RootNode
+    100032: StopValve_Handle_Level1
+    100034: StopValve_Handle_Level2
+    100036: StopValve_Handle_Level3
+    100038: StopValve_Handle_Level4
+    100040: StopValve_Handle_Level5
+    100042: StopValve_Level1_Group
+    100044: StopValve_Level2_Group
+    100046: StopValve_Level3_Group
+    100048: StopValve_Level4_Group
+    100050: StopValve_Level5_Group
+    100052: Body
+    100054: Body 1
+    100056: Body 2
+    100058: Body 3
+    100060: Body 4
+    100062: Handle
+    100064: Handle 1
+    100066: Handle 2
+    100068: Handle 3
+    100070: Handle 4
+    100072: StopValve_DN100
+    100074: StopValve_DN200
+    100076: StopValve_DN25
+    100078: StopValve_DN300
+    100080: StopValve_DN50
+    400000: Model
+    400002: Model 1
+    400004: Model 2
+    400006: Model 3
+    400008: Model 4
+    400010: Point_Pos
+    400012: Point_Pos 1
+    400014: Point_Pos 2
+    400016: Point_Pos 3
+    400018: Point_Pos 4
+    400020: StopValve_Body_Level1
+    400022: StopValve_Body_Level2
+    400024: StopValve_Body_Level3
+    400026: StopValve_Body_Level4
+    400028: StopValve_Body_Level5
+    400030: //RootNode
+    400032: StopValve_Handle_Level1
+    400034: StopValve_Handle_Level2
+    400036: StopValve_Handle_Level3
+    400038: StopValve_Handle_Level4
+    400040: StopValve_Handle_Level5
+    400042: StopValve_Level1_Group
+    400044: StopValve_Level2_Group
+    400046: StopValve_Level3_Group
+    400048: StopValve_Level4_Group
+    400050: StopValve_Level5_Group
+    400052: Body
+    400054: Body 1
+    400056: Body 2
+    400058: Body 3
+    400060: Body 4
+    400062: Handle
+    400064: Handle 1
+    400066: Handle 2
+    400068: Handle 3
+    400070: Handle 4
+    400072: StopValve_DN100
+    400074: StopValve_DN200
+    400076: StopValve_DN25
+    400078: StopValve_DN300
+    400080: StopValve_DN50
+    2300000: Point_Pos
+    2300002: Point_Pos 1
+    2300004: Point_Pos 2
+    2300006: Point_Pos 3
+    2300008: Point_Pos 4
+    2300010: StopValve_Body_Level1
+    2300012: StopValve_Body_Level2
+    2300014: StopValve_Body_Level3
+    2300016: StopValve_Body_Level4
+    2300018: StopValve_Body_Level5
+    2300020: StopValve_Handle_Level1
+    2300022: StopValve_Handle_Level2
+    2300024: StopValve_Handle_Level3
+    2300026: StopValve_Handle_Level4
+    2300028: StopValve_Handle_Level5
+    2300030: Body
+    2300032: Body 1
+    2300034: Body 2
+    2300036: Body 3
+    2300038: Body 4
+    2300040: Handle
+    2300042: Handle 1
+    2300044: Handle 2
+    2300046: Handle 3
+    2300048: Handle 4
+    3300000: Point_Pos
+    3300002: Point_Pos 1
+    3300004: Point_Pos 2
+    3300006: Point_Pos 3
+    3300008: Point_Pos 4
+    3300010: StopValve_Body_Level1
+    3300012: StopValve_Body_Level2
+    3300014: StopValve_Body_Level3
+    3300016: StopValve_Body_Level4
+    3300018: StopValve_Body_Level5
+    3300020: StopValve_Handle_Level1
+    3300022: StopValve_Handle_Level2
+    3300024: StopValve_Handle_Level3
+    3300026: StopValve_Handle_Level4
+    3300028: StopValve_Handle_Level5
+    3300030: Body
+    3300032: Body 1
+    3300034: Body 2
+    3300036: Body 3
+    3300038: Body 4
+    3300040: Handle
+    3300042: Handle 1
+    3300044: Handle 2
+    3300046: Handle 3
+    3300048: Handle 4
+    4300000: Point_Pos
+    4300002: StopValve_Body_Level1
+    4300004: StopValve_Handle_Level1
+    4300006: Point_Pos
+    4300008: StopValve_Handle_Level2
+    4300010: StopValve_Body_Level2
+    4300012: Point_Pos
+    4300014: StopValve_Body_Level3
+    4300016: StopValve_Handle_Level3
+    4300018: Point_Pos
+    4300020: StopValve_Body_Level4
+    4300022: StopValve_Handle_Level4
+    4300024: Point_Pos
+    4300026: StopValve_Body_Level5
+    4300028: StopValve_Handle_Level5
+    4300030: Body
+    4300032: Handle
+    4300034: Handle
+    4300036: Body
+    4300038: Body
+    4300040: Handle
+    4300042: Body
+    4300044: Handle
+    4300046: Body
+    4300048: Handle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

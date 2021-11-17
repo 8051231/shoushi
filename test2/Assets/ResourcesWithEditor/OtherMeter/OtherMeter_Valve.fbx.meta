@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 359a726398dc49749aa9e224ddc5e41a
+timeCreated: 1472371498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GM_PressureMeter_Body_1
+    100002: GM_PressureMeter_Body_2
+    100004: GM_PressureMeter_Elbow
+    100006: GM_PressureMeter_Tube_Group
+    100008: LevelMeter_Body
+    100010: LevelMeter_Group
+    100012: Model
+    100014: Model 1
+    100016: Model 2
+    100018: Model 3
+    100020: Model 4
+    100022: Model 5
+    100024: //RootNode
+    100026: Point_Pos
+    100028: Point_Pos 1
+    100030: Point_Pos 2
+    100032: Point_Pos 3
+    100034: Point_Pos 4
+    100036: Point_Pos 5
+    100038: Pointer
+    100040: Pointer 1
+    100042: Pointer 2
+    100044: polySurface2
+    100046: PressureMeter
+    100048: PressureMeter_Group
+    100050: Remote_ThermoMeter
+    100052: Remote_ThermoMeter_Group
+    100054: ThermoMeter_Body
+    100056: ThermoMeter_Group
+    100058: Body
+    100060: Body 1
+    100062: Body 2
+    100064: Body 3
+    100066: Body 4
+    100068: Body 5
+    100070: GM_PressureMeter_Elbow_DN
+    100072: GM_PressureMeter_Tube_DN
+    100074: LevelMeter_DN
+    100076: PressureMeter_DN
+    100078: Remote_ThermoMeter_DN
+    100080: ThermoMeter_DN
+    400000: GM_PressureMeter_Body_1
+    400002: GM_PressureMeter_Body_2
+    400004: GM_PressureMeter_Elbow
+    400006: GM_PressureMeter_Tube_Group
+    400008: LevelMeter_Body
+    400010: LevelMeter_Group
+    400012: Model
+    400014: Model 1
+    400016: Model 2
+    400018: Model 3
+    400020: Model 4
+    400022: Model 5
+    400024: //RootNode
+    400026: Point_Pos
+    400028: Point_Pos 1
+    400030: Point_Pos 2
+    400032: Point_Pos 3
+    400034: Point_Pos 4
+    400036: Point_Pos 5
+    400038: Pointer
+    400040: Pointer 1
+    400042: Pointer 2
+    400044: polySurface2
+    400046: PressureMeter
+    400048: PressureMeter_Group
+    400050: Remote_ThermoMeter
+    400052: Remote_ThermoMeter_Group
+    400054: ThermoMeter_Body
+    400056: ThermoMeter_Group
+    400058: Body
+    400060: Body 1
+    400062: Body 2
+    400064: Body 3
+    400066: Body 4
+    400068: Body 5
+    400070: GM_PressureMeter_Elbow_DN
+    400072: GM_PressureMeter_Tube_DN
+    400074: LevelMeter_DN
+    400076: PressureMeter_DN
+    400078: Remote_ThermoMeter_DN
+    400080: ThermoMeter_DN
+    2300000: GM_PressureMeter_Body_2
+    2300002: LevelMeter_Body
+    2300004: Point_Pos
+    2300006: Point_Pos 1
+    2300008: Point_Pos 2
+    2300010: Point_Pos 3
+    2300012: Point_Pos 4
+    2300014: Point_Pos 5
+    2300016: Pointer
+    2300018: Pointer 1
+    2300020: Pointer 2
+    2300022: polySurface2
+    2300024: PressureMeter
+    2300026: Remote_ThermoMeter
+    2300028: ThermoMeter_Body
+    2300030: Body
+    2300032: Body 1
+    2300034: Body 2
+    2300036: Body 3
+    2300038: Body 4
+    2300040: Body 5
+    3300000: GM_PressureMeter_Body_2
+    3300002: LevelMeter_Body
+    3300004: Point_Pos
+    3300006: Point_Pos 1
+    3300008: Point_Pos 2
+    3300010: Point_Pos 3
+    3300012: Point_Pos 4
+    3300014: Point_Pos 5
+    3300016: Pointer
+    3300018: Pointer 1
+    3300020: Pointer 2
+    3300022: polySurface2
+    3300024: PressureMeter
+    3300026: Remote_ThermoMeter
+    3300028: ThermoMeter_Body
+    3300030: Body
+    3300032: Body 1
+    3300034: Body 2
+    3300036: Body 3
+    3300038: Body 4
+    3300040: Body 5
+    4300000: Point_Pos
+    4300002: LevelMeter_Body
+    4300004: Point_Pos
+    4300006: PressureMeter
+    4300008: Point_Pos
+    4300010: Remote_ThermoMeter
+    4300012: Point_Pos
+    4300014: Pointer
+    4300016: ThermoMeter_Body
+    4300018: Point_Pos
+    4300020: Pointer
+    4300022: GM_PressureMeter_Body_2
+    4300024: Point_Pos
+    4300026: Pointer
+    4300028: polySurface2
+    4300030: Body
+    4300032: Body
+    4300034: Body
+    4300036: Body
+    4300038: Body
+    4300040: Body
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

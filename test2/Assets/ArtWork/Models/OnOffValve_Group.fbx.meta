@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: c35ba90a3abbd8845b136a577787e6c8
+timeCreated: 1472371504
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Model
+    100002: Model 1
+    100004: Model 2
+    100006: Model 3
+    100008: Model 4
+    100010: //RootNode
+    100012: OnOffValve_Level1_Group
+    100014: OnOffValve_Level2_Group
+    100016: OnOffValve_Level3_Group
+    100018: OnOffValve_Level4_Group
+    100020: OnOffValve_Level5_Group
+    100022: Point_Pos
+    100024: Point_Pos 1
+    100026: Point_Pos 2
+    100028: Point_Pos 3
+    100030: Point_Pos 4
+    100032: ValveBody
+    100034: ValveBody 1
+    100036: ValveBody 2
+    100038: ValveBody 3
+    100040: ValveBody 4
+    100042: ValveHandle
+    100044: ValveHandle 1
+    100046: ValveHandle 2
+    100048: ValveHandle 3
+    100050: ValveHandle 4
+    100052: OnOffValve_DN100
+    100054: OnOffValve_DN200
+    100056: OnOffValve_DN25
+    100058: OnOffValve_DN300
+    100060: OnOffValve_DN50
+    400000: Model
+    400002: Model 1
+    400004: Model 2
+    400006: Model 3
+    400008: Model 4
+    400010: //RootNode
+    400012: OnOffValve_Level1_Group
+    400014: OnOffValve_Level2_Group
+    400016: OnOffValve_Level3_Group
+    400018: OnOffValve_Level4_Group
+    400020: OnOffValve_Level5_Group
+    400022: Point_Pos
+    400024: Point_Pos 1
+    400026: Point_Pos 2
+    400028: Point_Pos 3
+    400030: Point_Pos 4
+    400032: ValveBody
+    400034: ValveBody 1
+    400036: ValveBody 2
+    400038: ValveBody 3
+    400040: ValveBody 4
+    400042: ValveHandle
+    400044: ValveHandle 1
+    400046: ValveHandle 2
+    400048: ValveHandle 3
+    400050: ValveHandle 4
+    400052: OnOffValve_DN100
+    400054: OnOffValve_DN200
+    400056: OnOffValve_DN25
+    400058: OnOffValve_DN300
+    400060: OnOffValve_DN50
+    2300000: Point_Pos
+    2300002: Point_Pos 1
+    2300004: Point_Pos 2
+    2300006: Point_Pos 3
+    2300008: Point_Pos 4
+    2300010: ValveBody
+    2300012: ValveBody 1
+    2300014: ValveBody 2
+    2300016: ValveBody 3
+    2300018: ValveBody 4
+    2300020: ValveHandle
+    2300022: ValveHandle 1
+    2300024: ValveHandle 2
+    2300026: ValveHandle 3
+    2300028: ValveHandle 4
+    3300000: Point_Pos
+    3300002: Point_Pos 1
+    3300004: Point_Pos 2
+    3300006: Point_Pos 3
+    3300008: Point_Pos 4
+    3300010: ValveBody
+    3300012: ValveBody 1
+    3300014: ValveBody 2
+    3300016: ValveBody 3
+    3300018: ValveBody 4
+    3300020: ValveHandle
+    3300022: ValveHandle 1
+    3300024: ValveHandle 2
+    3300026: ValveHandle 3
+    3300028: ValveHandle 4
+    4300000: Point_Pos
+    4300002: ValveBody
+    4300004: ValveHandle
+    4300006: Point_Pos
+    4300008: ValveBody
+    4300010: ValveHandle
+    4300012: Point_Pos
+    4300014: ValveBody
+    4300016: ValveHandle
+    4300018: Point_Pos
+    4300020: ValveBody
+    4300022: ValveHandle
+    4300024: Point_Pos
+    4300026: ValveBody
+    4300028: ValveHandle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

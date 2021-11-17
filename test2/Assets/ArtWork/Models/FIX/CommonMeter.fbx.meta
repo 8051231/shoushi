@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: eab9c77aed78f004faed8c62ffef3ceb
+timeCreated: 1478501097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body 1
+    100004: Body 2
+    100006: Body 3
+    100008: Body 4
+    100010: Body 5
+    100012: Body 6
+    100014: //RootNode
+    100016: Gan
+    100018: GM_PressureMeter_Elbow_DN
+    100020: GM_PressureMeter_Tube_DN
+    100022: LevelMeter_DN
+    100024: Model
+    100026: Model 1
+    100028: Model 2
+    100030: Model 3
+    100032: Model 4
+    100034: Model 5
+    100036: Point_Pos
+    100038: Point_Pos 1
+    100040: Point_Pos 2
+    100042: Point_Pos 3
+    100044: Point_Pos 4
+    100046: Point_Pos 5
+    100048: Pointer
+    100050: Pointer 1
+    100052: Pointer 2
+    100054: PressureMeter_DN
+    100056: Remote_ThermoMeter_DN
+    100058: SmallValve
+    100060: ThermoMeter_DN
+    400000: Body
+    400002: Body 1
+    400004: Body 2
+    400006: Body 3
+    400008: Body 4
+    400010: Body 5
+    400012: Body 6
+    400014: //RootNode
+    400016: Gan
+    400018: GM_PressureMeter_Elbow_DN
+    400020: GM_PressureMeter_Tube_DN
+    400022: LevelMeter_DN
+    400024: Model
+    400026: Model 1
+    400028: Model 2
+    400030: Model 3
+    400032: Model 4
+    400034: Model 5
+    400036: Point_Pos
+    400038: Point_Pos 1
+    400040: Point_Pos 2
+    400042: Point_Pos 3
+    400044: Point_Pos 4
+    400046: Point_Pos 5
+    400048: Pointer
+    400050: Pointer 1
+    400052: Pointer 2
+    400054: PressureMeter_DN
+    400056: Remote_ThermoMeter_DN
+    400058: SmallValve
+    400060: ThermoMeter_DN
+    2300000: Body
+    2300002: Body 1
+    2300004: Body 2
+    2300006: Body 4
+    2300008: Body 5
+    2300010: Body 6
+    2300012: Gan
+    2300014: Point_Pos
+    2300016: Point_Pos 1
+    2300018: Point_Pos 2
+    2300020: Point_Pos 3
+    2300022: Point_Pos 4
+    2300024: Point_Pos 5
+    2300026: Pointer
+    2300028: Pointer 1
+    2300030: Pointer 2
+    2300032: SmallValve
+    3300000: Body
+    3300002: Body 1
+    3300004: Body 2
+    3300006: Body 4
+    3300008: Body 5
+    3300010: Body 6
+    3300012: Gan
+    3300014: Point_Pos
+    3300016: Point_Pos 1
+    3300018: Point_Pos 2
+    3300020: Point_Pos 3
+    3300022: Point_Pos 4
+    3300024: Point_Pos 5
+    3300026: Pointer
+    3300028: Pointer 1
+    3300030: Pointer 2
+    3300032: SmallValve
+    4300000: Body
+    4300002: Point_Pos
+    4300004: Point_Pos
+    4300006: Body
+    4300008: SmallValve
+    4300010: Gan
+    4300012: Point_Pos
+    4300014: Body
+    4300016: Pointer
+    4300018: Body
+    4300020: Point_Pos
+    4300022: Pointer
+    4300024: Body
+    4300026: Point_Pos
+    4300028: Point_Pos
+    4300030: Pointer
+    4300032: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

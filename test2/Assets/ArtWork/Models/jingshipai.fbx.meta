@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: d9f143e91ea6dbf40a3cde3f18f44198
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chuandai
+    100002: H2S
+    100004: jiaqing
+    100006: //RootNode
+    100008: jinruzhuangzhi
+    100010: yipai
+    100012: zhiyebing
+    100014: zhongda
+    400000: chuandai
+    400002: H2S
+    400004: jiaqing
+    400006: //RootNode
+    400008: jinruzhuangzhi
+    400010: yipai
+    400012: zhiyebing
+    400014: zhongda
+    2100000: jinru
+    2100002: jiaqin
+    2100004: zhiyebingg
+    2100006: zhongdada
+    2100008: chuandai1
+    2100010: H2S1
+    2100012: yipai1
+    2300000: chuandai
+    2300002: H2S
+    2300004: jiaqing
+    2300006: jinruzhuangzhi
+    2300008: yipai
+    2300010: zhiyebing
+    2300012: zhongda
+    3300000: chuandai
+    3300002: H2S
+    3300004: jiaqing
+    3300006: jinruzhuangzhi
+    3300008: yipai
+    3300010: zhiyebing
+    3300012: zhongda
+    4300000: jinruzhuangzhi
+    4300002: jiaqing
+    4300004: zhiyebing
+    4300006: zhongda
+    4300008: chuandai
+    4300010: H2S
+    4300012: yipai
+    6400000: chuandai
+    6400002: H2S
+    6400004: jiaqing
+    6400006: jinruzhuangzhi
+    6400008: yipai
+    6400010: zhiyebing
+    6400012: zhongda
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: H2S1
+    second: {fileID: 2100000, guid: 673195ada23dd0c49aa491fe70662e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chuandai1
+    second: {fileID: 2100000, guid: b9f8e0c120fb11944b103dde99748606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jiaqin
+    second: {fileID: 2100000, guid: ac34af67c8e946644b1a13ca440fba63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jinru
+    second: {fileID: 2100000, guid: 93c8adb036a7692459c11e47804335c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yipai1
+    second: {fileID: 2100000, guid: 4bd383e1a8a656a45a24a32ba51e7763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zhiyebingg
+    second: {fileID: 2100000, guid: 4ac46230f54764143bc1abe29a29dd94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zhongdada
+    second: {fileID: 2100000, guid: b4adaae13b8d17343bff254c084a2af0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,7 +5,7 @@ using UnityStandardAssets.CrossPlatformInput;
 namespace Ladder.Scripts
 {
     [Serializable]
-    public class MouseLook1
+    public class MouseLook
     {
         //x轴和y轴的灵敏度
         public float XSensitivity = 2f;
@@ -43,12 +43,20 @@ namespace Ladder.Scripts
 
         // FirstPersonController每帧会调用
         // 根据鼠标移动的位置调整镜头的旋转
-        public void LookRotation(Transform character, Transform camera, Transform ladderTrigger)
+        public void LookRotation(Transform character, Transform camera, Transform ladderTrigger, int rotateType)
         {
             if (ladderTrigger == null)
             {
                 // 获取鼠标的位置，乘以灵敏度，获取x轴或者y轴的旋转
                 float yRot = CrossPlatformInputManager.GetAxis("zuoyou") * XSensitivity;
+                if (rotateType == 1)
+                {
+                    yRot = -1f * XSensitivity;
+                }
+                if (rotateType == 2)
+                {
+                    yRot = 1f * XSensitivity;
+                }
                 //左右旋转
                 m_CharacterTargetRot *= Quaternion.Euler(0f, yRot, 0f);
             }

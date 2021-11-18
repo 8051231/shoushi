@@ -341,7 +341,7 @@ namespace Ladder.Scripts
             {
                 // If we are climbing let's look to the direction of the ladder
                 // 如果我们在爬梯，朝着梯子的方向
-               // m_MouseLook.LookRotation(transform, m_Camera.transform, m_ladderTrigger);
+                m_MouseLook.LookRotation(transform, m_Camera.transform, m_ladderTrigger, rotateType);
             }
         }
 

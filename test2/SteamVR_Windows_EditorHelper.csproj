@@ -64,19 +64,19 @@
   <ItemGroup>
     <Compile Include="Assets\SteamVR\WindowsHelper\SteamVR_Windows_Editor_Helper.cs" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -268,55 +268,55 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json 1">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/DrawLine/Scripts/Newtonsoft.Json 1.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/DrawLine/Scripts/Newtonsoft.Json 1.dll</HintPath>
     </Reference>
     <Reference Include="Hi5Plugins">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/NoitomHi5/Plugins/x86_64/Hi5Plugins.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/NoitomHi5/Plugins/x86_64/Hi5Plugins.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/BouncyCastle.Crypto.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/BouncyCastle.Crypto.dll</HintPath>
     </Reference>
     <Reference Include="Opc.UaFx.Client">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/Opc.UaFx.Client.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/Opc.UaFx.Client.dll</HintPath>
     </Reference>
     <Reference Include="OPCUA4Unity">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/OPCUA4Unity.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/OPCUA4Unity.dll</HintPath>
     </Reference>
     <Reference Include="System.Private.ServiceModel">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/System.Private.ServiceModel.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/System.Private.ServiceModel.dll</HintPath>
     </Reference>
     <Reference Include="System.Reflection.DispatchProxy">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/System.Reflection.DispatchProxy.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/System.Reflection.DispatchProxy.dll</HintPath>
     </Reference>
     <Reference Include="System.ServiceModel.Primitives">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/OPCUA4Unity/private/System.ServiceModel.Primitives.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/OPCUA4Unity/private/System.ServiceModel.Primitives.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/cxl/工作资料/yueliang给的场景包/test2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/mygit/shoushi/test2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

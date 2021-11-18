@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 //using static Rotate;
 
-namespace Ladder.Scripts
+namespace Ladder.Scriptsbak
 {
     ///<summary>
     ///主要是处理人物和镜头的旋转

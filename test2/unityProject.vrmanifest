@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.test.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\cxl\\工作资料\\yueliang给的场景包\\test2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\mygit\\shoushi\\test2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "test [Testing]"

@@ -95,7 +95,7 @@ namespace Ladder.Scripts
         private bool m_Jumping;
         private AudioSource m_AudioSource;
         //玩家爬梯的速度
-        private float m_ClimbSpeed; // How fast does the player climb the ladder
+        public float m_ClimbSpeed; // How fast does the player climb the ladder
                                     //是否正在爬梯标识
         private bool m_isClimbing = false; // Are we currently climbing?
                                            //当前触发的梯子
@@ -136,7 +136,7 @@ namespace Ladder.Scripts
             m_StepCycle = 0f;
             m_NextStep = m_StepCycle / 2f;
             m_Jumping = false;
-            m_ClimbSpeed = 1f; //爬梯子速度
+          //  m_ClimbSpeed = 1f; //爬梯子速度
             m_AudioSource = GetComponent<AudioSource>();
             m_MouseLook.Init(transform, m_Camera.transform);
         }
@@ -226,7 +226,7 @@ namespace Ladder.Scripts
                     //m_MoveDir.z = 0;
                     m_CollisionFlags = m_CharacterController.Move(m_MoveDir * Time.fixedDeltaTime);
                     // m_CharacterController.Move(m_MoveDir * Time.fixedDeltaTime);
-             //       print("climb0" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
+              //      print("wwww befor" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
                     // m_CharacterController.transform.Translate(Vector3.up * Time.deltaTime, Space.World);
                     // m_MoveDir = Vector3.forward;
              //       print("climb1" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
@@ -234,6 +234,7 @@ namespace Ladder.Scripts
             }
             else
             {
+              //  print("wwww after" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
                 //   climbTips.SetActive(false);
                 // always move along the camera forward as it is the direction that it being aimed at
                 // 始终沿着相机向前移动，因为它是它被瞄准的方向
@@ -281,7 +282,7 @@ namespace Ladder.Scripts
                 }
                 //移动！
                 m_CollisionFlags = m_CharacterController.Move(m_MoveDir * Time.fixedDeltaTime);
-                //print("move" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
+                // print("move" + m_MoveDir.x + "," + m_MoveDir.y + "," + m_MoveDir.z + ",");
                 // ProgressStepCycle(speed); //处理脚步声音
                 // UpdateCameraPosition(speed);//更新相机的摆动
                 // m_MouseLook.UpdateCursorLock(); //直观印象就是更新鼠标会不会隐藏

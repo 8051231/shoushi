@@ -325,8 +325,8 @@ public class FaMenRotate : MonoBehaviour
                     //objCubeUp.SetActive(true);
                     objCubeDown.gameObject.transform.localScale = new Vector3(0.6071323f, 2.14243f, 2.21835f);
                     objCubeUp.gameObject.transform.localScale = new Vector3(0.7753376f, 1.689273f, 1.838122f);
-                 //   objCubeDown.GetComponent<Renderer>().enabled = false;
-                 //   objCubeUp.GetComponent<Renderer>().enabled = false;
+                    objCubeDown.GetComponent<Renderer>().enabled = false;
+                    objCubeUp.GetComponent<Renderer>().enabled = false;
                     }
 
                     if (Hi5_Glove_Gesture_Recognition.isLeftFist == 0)

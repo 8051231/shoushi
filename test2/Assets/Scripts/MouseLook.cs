@@ -68,7 +68,7 @@ namespace Ladder.Scripts
    //             Debug.Log("lad:"+ lad);
                 direction.y = 0;
 
-              //  Quaternion lookRotation = Quaternion.LookRotation(direction);
+                Quaternion lookRotation = Quaternion.LookRotation(direction);
 
                 angle = GetRotateAngle(lad.transform);
    //             Debug.Log("angle z: " + angle);
